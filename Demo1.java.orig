@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+public class Demo1{
+	
+	
+	public static void main(String[] a){
+		//hello
+		
+	}
+}
+=======
+public class Demo1{}
+>>>>>>> 8f98400d7ac04c5d0714ac31da8dd5860fd662a5
